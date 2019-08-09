@@ -1,0 +1,11 @@
+C:\Users\Noah\Desktop\repos\Algos\bin\Debug\netcoreapp2.2\Algos.deps.json
+C:\Users\Noah\Desktop\repos\Algos\bin\Debug\netcoreapp2.2\Algos.runtimeconfig.json
+C:\Users\Noah\Desktop\repos\Algos\bin\Debug\netcoreapp2.2\Algos.runtimeconfig.dev.json
+C:\Users\Noah\Desktop\repos\Algos\bin\Debug\netcoreapp2.2\Algos.dll
+C:\Users\Noah\Desktop\repos\Algos\bin\Debug\netcoreapp2.2\Algos.pdb
+C:\Users\Noah\Desktop\repos\Algos\obj\Debug\netcoreapp2.2\Algos.csprojAssemblyReference.cache
+C:\Users\Noah\Desktop\repos\Algos\obj\Debug\netcoreapp2.2\Algos.csproj.CoreCompileInputs.cache
+C:\Users\Noah\Desktop\repos\Algos\obj\Debug\netcoreapp2.2\Algos.AssemblyInfoInputs.cache
+C:\Users\Noah\Desktop\repos\Algos\obj\Debug\netcoreapp2.2\Algos.AssemblyInfo.cs
+C:\Users\Noah\Desktop\repos\Algos\obj\Debug\netcoreapp2.2\Algos.dll
+C:\Users\Noah\Desktop\repos\Algos\obj\Debug\netcoreapp2.2\Algos.pdb
